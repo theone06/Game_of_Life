@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Game of Life/*
+!/Game of Life/task/
+/Game of Life/task/*
+!/Game of Life/task/src
